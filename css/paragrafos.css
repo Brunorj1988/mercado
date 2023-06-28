@@ -1,0 +1,20 @@
+
+
+.paragrafos {
+    text-align: center;
+    padding-top: 45px;
+}
+
+h2 {
+    color: var(--vinho--segundo);
+    font-family: 'pacifico';
+    padding-bottom: 20px;
+}
+
+.p {
+    color: #8C8888;
+    font-size: 15px;
+    font-family: Roboto;
+    font-weight: 300;
+}
+

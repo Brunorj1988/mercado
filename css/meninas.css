@@ -1,0 +1,50 @@
+
+
+
+.meninas__sessao {
+    background: #ffffff;
+    margin: 60px;
+}
+
+.meninas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 40px;
+}
+
+
+.img__meninas {
+    border-radius: 150px;
+}
+
+.meninas__div {
+    text-align: center;
+}
+
+.meninas__paragrafo__div {
+    text-align: center;
+}
+
+.meninas__nome {
+    padding-top: 15px;
+    font-size: 25px;
+    color: #8D0606;
+    font-family: 'pacifico';
+}
+
+.meninas__paragrafo {
+    color: #9BABB8;
+    
+}
+
+.meninas__principal {
+    font-size: 35px;
+}
+
+.meninas__principal__paragrafo {
+    color: #9BABB8;
+    font-size: 15px;
+    
+}
+

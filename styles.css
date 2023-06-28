@@ -1,0 +1,67 @@
+@import url(./css/header.css);
+@import url(./css/banner.css);
+@import url(./css/paragrafos.css);
+@import url(./css/cardapio.css);
+@import url(./css/meninas.css);
+@import url(./css/footer.css);
+
+
+
+:root {
+    --branco--primeiro:#ffffff; 
+    --vinho--segundo:#8D0606;
+    --cinza--terceira:#F1F1F1;
+}
+
+body{
+    font-family: 'roboto, sans-serif';  
+    background: var(--cinza--terceira);
+}
+
+h1,h2,h3,h4,h5 {
+    padding: 0;
+}
+
+ul, li {
+    padding: 0;
+}
+
+
+
+
+
+ 
+
+@media (max-width:740px){
+    .container{
+        font-size: 15px;
+        display: flex;
+        justify-content: start;
+        padding-left: 20px;
+        
+       
+    }
+
+    body {
+         background: var(--cinza--terceira); 
+        height: 500px;
+        width: 500px;  
+    }
+
+    .sessa__container{
+        display: flex;
+        flex-direction: column;
+        align-items: start;  
+    }
+
+    .menu{
+        padding-right: 30px;
+    }
+
+    .banner__texto {
+        font-size: 25px;
+        top:18%;
+        left: 70%;
+    }
+
+    }

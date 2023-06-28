@@ -1,0 +1,38 @@
+
+
+.banner__img{
+    width: 100%;
+}
+
+
+.banner__texto {
+        font-family: Pacifico, cursive;
+        color: #fdfdfd;
+        font-size: 5.0625rem;
+        position: absolute;
+        left: 50%;
+        text-shadow: 0 4px 4px rgba(0, 0, 0, 0.75);
+        top: 30%;
+        text-align: center;
+        transform: translate(-50%, -50%);
+        width: 100%;
+
+}
+
+
+
+/* 
+
+position: absolute, de modo que a posição do texto seja absoluta na tela;
+
+left: 50% para termos o alinhamento à esquerda da tela, centralizando o texto;
+
+text-shadow: 0 4px 4px rgba(0, 0, 0, 0.75) para definirmos a sombra com uma cor preta mais clara;
+
+top: 50% para definirmos o alinhamento ao topo;
+
+transform: translate(-50%, -50%) para transladarmos o título, onde o primeiro valor é referente ao eixo X e o segundo ao eixo Y;
+
+width: 100% de modo que o elemento ocupe 100% da tela;*/
+
+

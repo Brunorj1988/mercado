@@ -1,0 +1,36 @@
+
+
+header{
+    background: #f9f9f9;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.lista {
+    display: flex;  
+    margin-left: 30px;
+}
+
+
+.lista__nav {
+    display: flex;
+    padding-left: 30px;
+    
+}
+
+.lista__link {
+    color: red;
+    text-decoration: none;
+
+}
+
+
+.lista__nav:hover {
+    font-size: 35px;
+
+}
+
+
+
+

@@ -1,0 +1,18 @@
+
+
+footer{
+    background:#2D4356;
+    height: 60px;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    align-items: center;
+
+}
+
+.img__cel{
+  width:30px;
+  padding-bottom: 8px;
+  margin: 10px;
+}
